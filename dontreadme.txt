@@ -1,4 +1,6 @@
 fuck git secretly and rapidly
 
 ---------------------
-git tracks changes
+git tracks changes of files
+
+test1 add
