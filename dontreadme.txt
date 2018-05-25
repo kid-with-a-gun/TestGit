@@ -1,4 +1,4 @@
-fuck git secretly and rapidly
+secretly and rapidly
 
 ---------------------
 git tracks changes of files
